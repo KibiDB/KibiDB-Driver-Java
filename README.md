@@ -22,3 +22,17 @@ client.getConnection().remove(key);
 //Clear all records
 client.getConnection().clear();
 ```
+
+##### Dependencies:
+
+```xml
+    <dependencies>
+        <dependency>
+            <groupId>com.kibi.driver</groupId>
+            <artifactId>KibiDB-Driver-Java</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/KibiDB-Driver-Java.jar</systemPath>
+        </dependency>
+    </dependencies>
+```
