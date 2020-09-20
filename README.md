@@ -1,4 +1,4 @@
-# KibiDB-Driver-JAva
+# KibiDB-Driver-Java
 Library written in Java to communicate with KibiDB Server and be able to insert, obtain, modify, clean data stored in KibiDB.
 
 ### Usage
